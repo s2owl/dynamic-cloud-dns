@@ -1,5 +1,5 @@
 {
-    "dnsZone": "zone-name",
+    "dnsZone": "brecker",
     "secretToken": "such secret!",
     "allowedHosts": ["*"],
     "ttl": "10"
